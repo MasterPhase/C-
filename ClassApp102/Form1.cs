@@ -131,8 +131,8 @@ namespace ClassApp102
                     MessageBox.Show("Number: Fifty");
                     break;
 
-                case "Drugs":
-                    MessageBox.Show("You Drugga");
+                case "Hugs":
+                    MessageBox.Show("You Hugga");
                     break;
 
                 default:
