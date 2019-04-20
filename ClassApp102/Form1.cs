@@ -81,7 +81,7 @@ namespace ClassApp102
             /*
             int chris = 6;
             int brandon = 10;
-            int nomthaWeed = 420;
+            int nomtha = 42;
             if (chkBox.Checked)
             {
                 MessageBox.Show("The box is Checked" , "Human" , MessageBoxButtons.YesNo);
